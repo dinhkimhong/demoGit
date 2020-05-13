@@ -6,7 +6,7 @@ b = {'fist_name':'Kimhong', 'last_name':'Dinh'}
 c= 4 * 5
 print(c)
 
-d = 67*10
+d = 67*10000000
 
 #add in branch
 e = "new branch"
