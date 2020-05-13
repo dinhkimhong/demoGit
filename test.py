@@ -8,3 +8,6 @@ print(c)
 
 d = 5*6
 print(d)
+
+e = 6*7
+print(e)
