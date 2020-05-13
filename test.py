@@ -5,3 +5,6 @@ b = {'fist_name':'Kimhong', 'last_name':'Dinh'}
 
 c= 4 * 5
 print(c)
+
+d = 5*6
+print(d)
